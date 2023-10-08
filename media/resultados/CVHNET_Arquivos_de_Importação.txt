@@ -1,0 +1,23 @@
+CVHNET Arquivos de Importação
+
+----------------
+CD 830 e 2040
+
+GF 2171
+----------------
+
+Klok - Vendas Klok
+
+Boletas de Venda - Ref LKP
+
+Intermediação - GFP Intermediação
+
+GFP's Intermediação
+
+FP - Importação Estoque
+
+Klok = RCOL
+Coop. Veiling
+
+Intermediação = MVA
+Intermediação
